@@ -1,0 +1,14 @@
+{
+  "name": "ReEve",
+  "description": "This Application facilitates you to Dynamically Add and delete Events and also it is used to stores the event Details . Further update of this App will be reminding you with an alram.",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "/resources/img/icon-512.png",
+    "128": "/resources/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Sanjay Gouri",
+    "url": "http://sanjaygouri1.blogspot.in/"
+  },
+  "default_locale": "en"
+}
